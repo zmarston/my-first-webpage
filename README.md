@@ -5,9 +5,9 @@
 _This is my first webpage using HTML at Epicodus. I talk about my favorite things and Epicodus._
 ## Setup/Installation Requirements
 
-*_Clone this repository_
-*_enter the directory of choice_
-*_in the terminal run $ git clone https://github.com/zmarston/my-first-webpage _
+* _Clone this repository_
+* _Enter the directory of choice_
+* _In the terminal run $ git clone https://github.com/zmarston/my-first-webpage _
 ## Technologies Used
 _HTML_
 
